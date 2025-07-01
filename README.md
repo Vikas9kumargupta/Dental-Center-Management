@@ -1,2 +1,1 @@
-# Dental Center Management
-## Technical Assignment for ENTNT
+# Dental Center Management UI
